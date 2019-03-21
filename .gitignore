@@ -1,0 +1,6 @@
+# sqlite DB's
+*.sqlite3
+
+# compiled code
+__pycache__/
+
