@@ -4,3 +4,8 @@
 # compiled code
 __pycache__/
 
+# MAC OS files
+.DS_Store
+
+# IDE project files
+.idea
